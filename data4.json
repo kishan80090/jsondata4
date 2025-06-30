@@ -1,0 +1,102 @@
+[
+    {
+        "ques_no": "1",
+        "question": "What does CSS stand for?",
+        "a": "Cascading Style Sheets",
+        "b": "Colorful Style Sheets",
+        "c": "Computer Style Sheets",
+        "d": "Creative Style Sheets",
+        "correct": "a",
+        "answer": "e"
+    },
+    {
+        "ques_no": "2",
+        "question": "Which HTML tag is used to link an external CSS file?",
+        "a": "<css>",
+        "b": "<style>",
+        "c": "<link>",
+        "d": "<script>",
+        "correct": "c",
+        "answer": "e"
+    },
+    {
+        "ques_no": "3",
+        "question": "Which property is used to change the background color?",
+        "a": "bgcolor",
+        "b": "backgroundColor",
+        "c": "background-color",
+        "d": "color-background",
+        "correct": "c",
+        "answer": "e"
+    },
+    {
+        "ques_no": "4",
+        "question": "How do you make text bold using CSS?",
+        "a": "font-weight: bold;",
+        "b": "font-style: bold;",
+        "c": "text-style: bold;",
+        "d": "bold: true;",
+        "correct": "a",
+        "answer": "e"
+    },
+    {
+        "ques_no": "5",
+        "question": "Which CSS property controls the text size?",
+        "a": "font-size",
+        "b": "text-size",
+        "c": "font-style",
+        "d": "text-style",
+        "correct": "a",
+        "answer": "e"
+    },
+    {
+        "ques_no": "6",
+        "question": "Which property is used to center text?",
+        "a": "text-align: center;",
+        "b": "align: center;",
+        "c": "center-text: true;",
+        "d": "text-position: center;",
+        "correct": "a",
+        "answer": "e"
+    },
+    {
+        "ques_no": "7",
+        "question": "How do you select an element with id 'demo'?",
+        "a": "#demo",
+        "b": ".demo",
+        "c": "*demo",
+        "d": "demo",
+        "correct": "a",
+        "answer": "e"
+    },
+    {
+        "ques_no": "8",
+        "question": "Which symbol is used to select classes in CSS?",
+        "a": "#",
+        "b": ".",
+        "c": "*",
+        "d": "$",
+        "correct": "b",
+        "answer": "e"
+    },
+    {
+        "ques_no": "9",
+        "question": "Which property is used to set spacing between lines of text?",
+        "a": "line-spacing",
+        "b": "spacing",
+        "c": "line-height",
+        "d": "text-spacing",
+        "correct": "c",
+        "answer": "e"
+    },
+    {
+        "ques_no": "10",
+        "question": "How do you make a list not display bullet points?",
+        "a": "list-style: none;",
+        "b": "list-type: none;",
+        "c": "bullet: false;",
+        "d": "display: none;",
+        "correct": "a",
+        "answer": "e"
+    }
+]
